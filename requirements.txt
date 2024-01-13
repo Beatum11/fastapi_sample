@@ -1,0 +1,8 @@
+redis~=5.0.1
+SQLAlchemy~=2.0.25
+requests~=2.31.0
+fastapi~=0.108.0
+passlib~=1.7.4
+starlette~=0.32.0.post1
+pydantic~=2.5.3
+alembic~=1.13.1
